@@ -1,1 +1,1 @@
-console.log("Page Loaded successfully");
+document.querySelector(".primary-btn").innerText = "send";
